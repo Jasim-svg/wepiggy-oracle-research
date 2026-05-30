@@ -1,0 +1,9 @@
+[profile.default]
+src = "src"
+test = "test"
+out = "out"
+libs = ["lib"]
+solc = "0.8.19"
+
+[rpc_endpoints]
+bsc = "https://bsc-dataseed.binance.org"
